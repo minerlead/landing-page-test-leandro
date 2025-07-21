@@ -1,4 +1,4 @@
-# Landing Page de Teste - TechX Pro
+# Landing Page de Teste - TechX PRO
 
 ## Descrição
 
